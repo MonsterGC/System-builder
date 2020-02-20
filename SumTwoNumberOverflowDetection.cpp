@@ -1,4 +1,4 @@
-class IsIntegerOverFlow{
+class IsSumTwoNumberIntegerOverFlow{
     public:
         // unsigned
         bool IsOverFlow(unsigned x, unsigned y)
